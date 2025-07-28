@@ -14,19 +14,6 @@ Fire in the forest can occur naturally or by humans. Naturally, fire takes place
   + But we cannot just depend on temperature to detect fire as the temperature of a region also may increase due to sunlight. So we can also check the concentration of CO, CO2 gases in that region to detect the fire. But CO, CO2 gases can also be generated when someone uses the cigarette in that region so it may give false alarm, i.e., false fire event detection. 
   + To increase the accuracy in predicting fire events, we will use various ML algorithms to check if there is fire or not. We will also train the machine and test by providing custom input whether there is fire or not. We will also calculate the accuracy, recall, and precision of these ML Algorithms. Hence we can save our environment ,animals and livelihood from the adverse results of forest fires.
 ---
-### Project Requirement
-```diff 
-- HARDWARE
-    Processor Above: 1.5Ghz
-    Hardware Disk: 80GB
-    RAM: 2GB
-
-+ SOFTWARE
-    OS: Windows 7,8, 10
-    Language: Python
-    IDE: Colab (by Google)
-```
----
 ### Proposed Approach
 Dataset is taken from **[UCI Machine Learning repository](https://archive.ics.uci.edu/ml/datasets/Forest+Fires)**, description of dataset is described as below:
 + Dataset contains image and video data.
@@ -71,6 +58,4 @@ Temperature | 0.076047
 DC | 0.096724
 Month | 0.130329
 Output | 1.000000
----
-#### Thank You  !
 ---
