@@ -9,7 +9,6 @@ Fire in the forest can occur naturally or by humans. Naturally, fire takes place
   + To increase the accuracy in predicting fire events, we will use various ML algorithms to check if there is fire or not. We will also train the machine and test by providing custom input whether there is fire or not. We will also calculate the accuracy, recall, and precision of these ML Algorithms. Hence we can save our environment ,animals and livelihood from the adverse results of forest fires.
 ---
 ### Proposed Approach
-Dataset is taken from **[UCI Machine Learning repository](https://archive.ics.uci.edu/ml/datasets/Forest+Fires)**, description of dataset is described as below:
 + Dataset contains image and video data.
 + Image data contains test and train data in image format each having 3 class i.e., default, smoke, fire.
 + Test_default has 84 images, test_fire has 57 images, test_smoke has 30 images.
